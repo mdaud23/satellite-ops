@@ -1,6 +1,6 @@
 # Interplanetary Spacecraft and Satellite Engineering
 
-Orbital Parameters:
+## Orbital Parameters:
 
 - Semimajor Axis
 - Eccentricity
@@ -9,4 +9,10 @@ Orbital Parameters:
 - Argument of Periapsis -> diukur dari ascending node ke periapsis sepanjang plane orbit
 - True Anomaly -> diukur dari periapsis ke objek sepanjang plane orbit
 
-Orbit manuver gravity assist
+## Orbit manuver gravity assist
+
+## Space Propulsion
+- Chemical Internal Heat Engines
+- Electric Propulsion
+- Nuclear Propulsion
+
