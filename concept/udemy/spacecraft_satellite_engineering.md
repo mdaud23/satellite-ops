@@ -32,3 +32,15 @@ Important part of satellite link:
 Power graph of satellite link:
 ![power graph](power_graph.png)
 
+## Attitude
+
+Orientation of the spacecraft respect to an inertial reference of frame (central of earth maybe):
+- x: roll (in the direction of $\vec{v}$)
+- y: pitch
+- z: yaw
+
+Measured counter-clockwise in each axis
+
+**Attitude Determination**: measuring the orientation of the spacecraft
+
+**Attitude Control**: returning the spacecraft to its desired attitude
