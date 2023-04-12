@@ -21,5 +21,14 @@
 How antenna can generate information from EM waves:
 ![antenna](antenna.png)
 
-Directivity
+Important part of satellite link:
+- Up-Converter
+- Encoder - Decoder
+- High Power Amplifier (trasmitting ground station)
+- Low Noise Amplifier (receiving ground station)
+- Satellite Repeater
+![satellite link](sat_link.png)
+
+Power graph of satellite link:
+![power graph](power_graph.png)
 
