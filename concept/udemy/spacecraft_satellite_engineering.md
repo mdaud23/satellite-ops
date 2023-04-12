@@ -17,4 +17,9 @@
 - Nuclear Propulsion
 
 ## Communication
-![antenna](antenna.jpg)
+
+How antenna can generate information from EM waves:
+![antenna](antenna.png)
+
+Directivity
+
