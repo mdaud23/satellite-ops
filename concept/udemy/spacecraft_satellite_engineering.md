@@ -59,3 +59,21 @@ Punya USA itu ga stabil karena di space nanti akan ada rotasi pada axis yg momen
 Punya Russia stabil karena spherical aj, simpel
 
 ![momen inersia](momen_inersia.png)
+
+## Sensor untuk Attitude Control and Determination
+
+**Gyroscope**
+
+**Sun Sensor and Star Tracker**
+
+**Magnetometer**
+
+## Actuator
+
+**Momentum Wheel**
+
+**Control Moment Gyros**
+
+**Thrusters**
+
+**Magnetic Torquers**
