@@ -37,7 +37,7 @@ Power graph of satellite link:
 Orientation of the spacecraft respect to an inertial reference of frame (central of earth maybe):
 - x: roll (in the direction of $\vec{v}$)
 - y: pitch
-- z: yaw
+- z: yaw (radially outward of central body)
 
 Measured counter-clockwise in each axis
 
