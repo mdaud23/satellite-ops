@@ -44,3 +44,18 @@ Measured counter-clockwise in each axis
 **Attitude Determination**: measuring the orientation of the spacecraft
 
 **Attitude Control**: returning the spacecraft to its desired attitude
+
+Sistem kontrol attitude:
+![kontrol attitude](attitude_control.png)
+
+Attitude jitter: ada osilasi sedikit pada spacecraft, ada batas toleransinya juga
+
+"In the absence of external torques, a body can spin stably only about the axis of maximum moment of inertia"
+
+**Kasus**:
+
+Punya USA itu ga stabil karena di space nanti akan ada rotasi pada axis yg momen inersianya maksimum, mereka kira cuma rotasi pada sekitar axis body yg panjang
+
+Punya Russia stabil karena spherical aj, simpel
+
+![momen inersia](momen_inersia.png)
