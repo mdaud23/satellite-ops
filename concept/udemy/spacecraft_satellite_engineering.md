@@ -77,3 +77,37 @@ Punya Russia stabil karena spherical aj, simpel
 **Thrusters**
 
 **Magnetic Torquers**
+
+## Power System
+
+Solar Arrays: Solar Flux and its inverse square law
+
+Solar Arrays: Array Configurations
+
+Solar Arrays: Photovoltaics Theory
+
+Triple junction solar cell: pake solar cell yg berbeda daerah sensitivitas wavelength-nya terus ditumpuk
+
+Kalo kepanasan dia jadi ga efisien, tapi kalo di daerah bayangan juga dia ga kena sinar matahari
+
+![Efek Temperatur](temperature_effect.png)
+
+Batteries: Primary and Secondary
+
+About Secondary Battery
+
+![secondary battery](secondary_battery.png)
+
+Design battery bergantung dengan orbit spacecraft
+
+![baterai_cont](battery_cont.png)
+
+Battery life
+
+![hidup baterai](battery_life.png)
+
+Radioisotope Thermal Generator
+
+Seebeck Effect to generate voltage through thermal
+
+nambah bagian2 mekanik untul solving problem is pain in the ass, kalo bisa tanpa itu ya mending jangan
